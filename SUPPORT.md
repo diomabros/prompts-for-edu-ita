@@ -1,25 +1,25 @@
-# TODO: The maintainer of this repo has not yet edited this file
+# TODO: Il manutentore di questo repo non ha ancora modificato questo file.
 
-**REPO OWNER**: Do you want Customer Service & Support (CSS) support for this product/project?
+**REPO OWNER**: Desidera il supporto del Servizio Clienti e dell'Assistenza (CSS) per questo prodotto/progetto?
 
-- **No CSS support:** Fill out this template with information about how to file issues and get help.
-- **Yes CSS support:** Fill out an intake form at [aka.ms/onboardsupport](https://aka.ms/onboardsupport). CSS will work with/help you to determine next steps.
-- **Not sure?** Fill out an intake as though the answer were "Yes". CSS will help you decide.
+- **Nessun supporto CSS:** Compilare questo modello con informazioni su come presentare i problemi e ricevere aiuto.
+- **Si supporto CSS:** Compilare un modulo di accettazione all'indirizzo [aka.ms/onboardsupport](https://aka.ms/onboardsupport). Il CSS lavorerà con voi e vi aiuterà a determinare i passi successivi.
+- **Non sei sicuro?** Compila un'assunzione come se la risposta fosse "Sì". Il CSS vi aiuterà a decidere.
 
-*Then remove this first heading from this SUPPORT.MD file before publishing your repo.*
+*Poi rimuovete questa prima intestazione da questo file SUPPORT.MD prima di pubblicare il vostro repo.*
 
-# Support
+# Supporto
 
-## How to file issues and get help  
+## Come presentare i problemi e ricevere aiuto .
 
-This project uses GitHub Issues to track bugs and feature requests. Please search the existing 
-issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
-feature request as a new Issue.
+Questo progetto utilizza GitHub Issues per tenere traccia dei bug e delle richieste di funzionalità. Si prega di cercare nella sezione
+prima di presentare nuovi problemi, per evitare doppioni. Per i nuovi problemi, depositate il vostro bug o
+richiesta di funzionalità come nuovo problema.
 
-For help and questions about using this project, please **REPO MAINTAINER: INSERT INSTRUCTIONS HERE 
-FOR HOW TO ENGAGE REPO OWNERS OR COMMUNITY FOR HELP. COULD BE A STACK OVERFLOW TAG OR OTHER
-CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
+Per aiuto e domande sull'utilizzo di questo progetto, si prega di **MANUTENTORE DEL REPO: INSERIRE LE ISTRUZIONI QUI .
+COME COINVOLGERE I PROPRIETARI DEI REPO O LA COMUNITÀ PER OTTENERE AIUTO. POTREBBE ESSERE UN TAG DI STACK OVERFLOW O ALTRO
+CANALE. DOVE AIUTERAI LE PERSONE? **.
 
-## Microsoft Support Policy  
+##Politiche di assistenza Microsoft
 
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+Il supporto per questo **PROGETTO o PRODOTTO** è limitato alle risorse sopra elencate.
